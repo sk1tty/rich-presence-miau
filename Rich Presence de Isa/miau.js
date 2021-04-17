@@ -18,4 +18,4 @@ client.on('ready', () => {
   
 });
 
-client.login({ clientId : "802356924523479062" }).catch(console.error);  // en donde dice client ID, pones la id de tu app
+client.login({ clientId : "494769648445947915" }).catch(console.error);  // en donde dice client ID, pones la id de tu app
