@@ -11,7 +11,7 @@ client.on('ready', () => {
         large_text : "miau"  // texto que aparece en la imagen 
          
       },
-      buttons : [{label : "discord" , url : "https://discord.gg/97uKN2N2hQ"} , {label : "website" , url : "https://mishisquad.carrd.co/"}] // si acá solo quieres un botón, borra las llaves y la coma >w< (entre las comillas pon lo que gustes)
+      buttons : [{label : "discord" , url : "https://discord.gg/97uKN2N2hQ"}] // uwu
       
     }
   });
